@@ -1,2 +1,7 @@
-# iPhone Mock-Up
-A mock-up of an iPhone using HTML and CSS to design and visualise.
+# iPhone
+Training; constructing an iPhone through CSS
+
+
+## Authors & Contributors
+
+* **Chuong Nguyen** - *Front-End Developer* - [Github](https://github.com/chvng)
